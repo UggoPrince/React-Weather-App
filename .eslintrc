@@ -4,6 +4,8 @@
     "rules": {
         "linebreak-style": "off",
         "react/prop-types": "off",
-        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "no-undef": "off",
+        "no-param-reassign": "off"
     }
 }
